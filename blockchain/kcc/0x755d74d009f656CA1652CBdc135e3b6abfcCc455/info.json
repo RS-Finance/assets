@@ -1,0 +1,20 @@
+{
+    "name": "KsfSwap Finance",
+    "website": "https://ksfswap.finance/",
+    "explorer": "https://explorer.kcc.io/en/address/0x755d74d009f656CA1652CBdc135e3b6abfcCc455",
+    "type": "KRC20",
+    "symbol": "KSF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x755d74d009f656CA1652CBdc135e3b6abfcCc455",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ksfswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ksfswapsupport"
+        }
+    ]
+}
