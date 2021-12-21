@@ -21,12 +21,12 @@
       "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0x755d74d009f656CA1652CBdc135e3b6abfcCc455.png"
     },
     {
-      "address": "0x904257e308ED31144A743beB7b46f304F4a7a79e",
+      "address": "0x1bbD57143428452A4deb42519391A0a436481c8e",
       "chainId": 321,
       "name": "Reward Token",
       "symbol": "RS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0x904257e308ED31144A743beB7b46f304F4a7a79e.png"
+      "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0x1bbD57143428452A4deb42519391A0a436481c8e.png"
     },
     {
       "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
@@ -74,7 +74,7 @@
       "name": "DAI Coin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0xc9baa8cfdde8e328787e29b4b078abf2dadc2055.png"
+      "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055.png"
     },
     {
       "address": "0xfa93c12cd345c658bc4644d1d4e1b9615952258c",
@@ -90,7 +90,7 @@
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.png"
+      "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/v.png"
     },
     {
       "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
@@ -99,6 +99,14 @@
       "symbol": "BNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C.png"
+    },
+    {
+      "address": "0x516F50028780B60e2FE08eFa853124438f9E46a7",
+      "chainId": 321,
+      "name": "KAFE",
+      "symbol": "KAFE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/RS-Finance/assets/master/0x516F50028780B60e2FE08eFa853124438f9E46a7.png"
     },
     {
       "address": "0xEe58E4D62b10A92dB1089d4D040B759C28aE16Cd",
